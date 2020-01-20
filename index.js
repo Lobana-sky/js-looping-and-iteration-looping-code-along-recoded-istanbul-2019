@@ -37,6 +37,6 @@ function countDown(num)
   {
   console.log(num);
   i--;}
-  
-  
 }
+let num=15;
+countDown(num);
