@@ -33,5 +33,10 @@ writeCards(persons, eventName);
 
 function countDown(num)
 {
-  console.log()
+  while(i>=0)
+  {
+  console.log(num);
+  i--;}
+  
+  
 }
