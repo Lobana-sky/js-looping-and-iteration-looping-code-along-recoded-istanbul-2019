@@ -33,10 +33,10 @@ writeCards(persons, eventName);
 
 function countDown(num)
 {
-  while(i>=0)
+  while(num>=0)
   {
   console.log(num);
-  i--;}
+  num--;}
 }
 let num=15;
 countDown(num);
